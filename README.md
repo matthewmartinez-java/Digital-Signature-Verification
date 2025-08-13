@@ -71,6 +71,6 @@ Here are the general policies for all milestone submissions (also detailed in th
 
 ---
 
-© 2024 Matthew Martinez. All rights reserved.
+© 2025 Matthew Martinez. All rights reserved.
 
 No part of this repository may be reproduced, distributed, or transmitted in any form or by any means—including photocopying, recording, or other electronic or mechanical methods—without prior written permission from the instructor or course staff.
